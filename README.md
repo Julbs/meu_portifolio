@@ -50,7 +50,7 @@ SAPE
 - **Mês de Menor Retenção**: O menor índice foi observado nos cohorts de Setembro de 2023, com retenção inferior a 30% no segundo mês subsequente. Isso pode indicar falta de campanhas de engajamento ou sazonalidade com baixa demanda.
 
 **Recomendação**: Para melhorar a retenção nos períodos de baixa, implemente campanhas personalizadas, como descontos para clientes recentes e programas de fidelidade que incentivem compras recorrentes.
-![análise cohort](projeto superstore/análise cohort)
+![análise cohort](img/cohort.png)
 
 **RFM: Segmentos de Clientes Prioritários**
 - **Campeões**: Identificamos 12% dos clientes como “Campeõesˮ, caracterizados por compras frequentes, valores elevados e recência baixa (última compra recente). Eles são responsáveis por 35% da receita total.
@@ -59,7 +59,9 @@ SAPE
 **Recomendação:**
 - Para os “Campeõesˮ, ofereça benefícios exclusivos, como acesso antecipado a promoções e  programas VIP.
 - Para os “Clientes em Riscoˮ, implemente estratégias de reativação, como cupons de desconto ou comunicação personalizada.
+![análise cohort](img/tabela_rfm.png)
 
+![análise cohort](img/grafico_rfm.png)
 **Produtos e Localizações: Insights e Ações**
 
 **Produtos de Melhor Desempenho:**
